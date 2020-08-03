@@ -1,2 +1,4 @@
 name: Mark Dawson
 markdown: kramdown
+
+theme: jekyll-theme-slate
